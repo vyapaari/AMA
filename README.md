@@ -20,5 +20,5 @@ I try to use this as an email replacement that everyone can see, so feel free to
 
 ## IRC Libra.Chat 
 
-If you have something quick,private and easy, just ping me on IRC. 
+If you have something quick,private and easy, just ping me on IRC.
 140 characters makes everyone more efficient. I'm [@drupin](https://web.libera.chat/) on Libera.Chat.
