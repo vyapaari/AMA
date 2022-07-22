@@ -12,7 +12,7 @@ I'll try to answer it as soon as I can get to it. Once I answer I'll close the i
 
 ## Read some questions
 
-Check out the [Answered] Questions?(https://github.com/vyapaari/AMA/discussions?discussions_q=is%3Aanswered), you can filter to browse questions I've answered in the past. I try to use this as an email replacement that everyone can see, so feel free to dig into some of the older threads.
+Check out the Answered [Questions?](https://github.com/vyapaari/AMA/discussions?discussions_q=is%3Aanswered), you can filter to browse questions I've answered in the past. I try to use this as an email replacement that everyone can see, so feel free to dig into some of the older threads.
 
 ## IRC Libra.Chat 
 
