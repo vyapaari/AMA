@@ -1,5 +1,4 @@
 # Ask [@Vyapaari](https://github.com/vyapaari) anything!
-# Ask [@kosalanuwan](https://github.com/kosalanuwan) anything!
 
 This is a quick little Ask-Me-Anything redirects to GitHub Discussions. It is originally forked from [@kosalanuwan's repo](https://github.com/kosalanuwan/ama) and seems like a pretty fantastic idea in lieu of traditional blog comments, email, and the like.
 
