@@ -21,4 +21,4 @@ I try to use this as an email replacement that everyone can see, so feel free to
 ## IRC Libra.Chat 
 
 If you have something quick,private and easy, just ping me on IRC.
-140 characters makes everyone more efficient. I'm [@drupin] on Libera.Chat(https://web.libera.chat/)
+140 characters makes everyone more efficient. I'm [@drupin](http://drupin/) on [Libera.Chat](https://web.libera.chat/)
