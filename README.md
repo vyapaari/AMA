@@ -1,4 +1,5 @@
-# Ask [@Vyapaari](https://github.com/vyapaari) anything!
+# export Me = [@Vyapaari](https://github.com/vyapaari) # in the rabbit hole  
+# AMA aka Ask Me Anything !
 
 This is a quick little Ask-Me-Anything session, redirects to GitHub Discussions. It is originally forked from [@kosalanuwan's](https://github.com/kosalanuwan/ama) repo  and seems like a pretty fantastic idea in lieu of traditional blog comments, email, and the like.
 
