@@ -1,6 +1,6 @@
 # Ask [@Vyapaari](https://github.com/vyapaari) anything!
 
-This is a quick little Ask-Me-Anything, redirects to GitHub Discussions. It is originally forked from [@kosalanuwan's] repo (https://github.com/kosalanuwan/ama) and seems like a pretty fantastic idea in lieu of traditional blog comments, email, and the like.
+This is a quick little Ask-Me-Anything session, redirects to GitHub Discussions. It is originally forked from [@kosalanuwan's] repo (https://github.com/kosalanuwan/ama) and seems like a pretty fantastic idea in lieu of traditional blog comments, email, and the like.
 
 If you have any technical problems with Git or GitHub, you're better off [asking GitHub Support directly](https://github.com/contact), 
 Since you'll end up getting a much faster response back that way.
